@@ -2,10 +2,16 @@ Calories Burnt Prediction using Machine Learning
 
 Implemented Algorithms:
 
-Linear Regression
-K Nearest Neighbour
-Decision Tree
-Random Forest
-AdaDoost
-Gradient Boosting
-XG Boost
+1.Linear Regression
+
+2.K Nearest Neighbour
+
+3.Decision Tree
+
+4.Random Forest
+
+5.AdaDoost
+
+6.Gradient Boosting
+
+7.XG Boost
