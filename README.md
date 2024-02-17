@@ -4,14 +4,12 @@ Implemented Algorithms:
 
 1.Linear Regression
 
-2.K Nearest Neighbour
+2.Decision Tree
 
-3.Decision Tree
+3.Random Forest
 
-4.Random Forest
+4.AdaDoost
 
-5.AdaDoost
+5.Gradient Boosting
 
-6.Gradient Boosting
-
-7.XG Boost
+6.XG Boost
